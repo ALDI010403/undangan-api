@@ -165,10 +165,6 @@ https://www.postman.com/dewanakl/workspace/undangan/collection/20716209-a29ef362
 
 I'm very open to those of you who want to contribute to Kamu framework!
 
-## Security Vulnerabilities
-
-If you find a security vulnerability in this Kamu, please email DKL via [dewanakretarta29@gmail.com](mailto:dewanakretarta29@gmail.com).
-
 ## License
 
 Kamu framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
